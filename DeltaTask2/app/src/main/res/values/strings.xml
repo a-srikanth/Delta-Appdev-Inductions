@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeltaTask2</string>
+    <string name="legend">Voice commands list:\n\'go right/left/up/down\' to move in respective direction.\n\'increase/decrease size\' to
+        change size appropriately\n\'change to circle/square/hexagon\' to change its shape</string>
+</resources>
